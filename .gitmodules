@@ -1,0 +1,9 @@
+[submodule "bgfx/bgfx"]
+	path = bgfx/bgfx
+	url = https://github.com/christliu/bgfx
+[submodule "bgfx/bx"]
+	path = bgfx/bx
+	url = https://github.com/christliu/bx
+[submodule "bgfx/bimg"]
+	path = bgfx/bimg
+	url = https://github.com/christliu/bimg
